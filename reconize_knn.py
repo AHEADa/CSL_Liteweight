@@ -6,7 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import VotingClassifier
-
+#
 #read dataSet
 #train_dataSet, train_hwLabels = readDataSet('trainingDigits')
 #knn = neighbors.KNeighborsClassifier(algorithm='kd_tree', n_neighbors=1)
