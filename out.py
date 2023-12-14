@@ -28,5 +28,5 @@ def voice(pinyin: list) -> None:
         except:
             pass
 
-### 测试 ###
+### 测试 ##
 #voice(['ni','chi','le','ma'])
